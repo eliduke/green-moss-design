@@ -1,2 +1,2 @@
-# green-moss-design
-greenmossdesign.com
+# Green Moss Design
+The home page for greenmossdesign.com
